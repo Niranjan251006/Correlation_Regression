@@ -23,10 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 DEVOLPED BY: NIRANJAN S
 REF.NO: 24900209
+~~~
 
-
-Developed by : Priyanka.A
-Register number : 212222230113
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -60,6 +58,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
+~~~
 
 
 # Result
